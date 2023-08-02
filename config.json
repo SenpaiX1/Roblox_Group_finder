@@ -1,9 +1,9 @@
 {
 
-    "Webhooks": "",
+    "Webhooks": "https://discord.com/api/webhooks/1136277524096225351/gyAzUW2HxffYiuu8TZcqUk0Glv2Nhr1zWnSgaUoNQrSZNm28kSuIMDCvJoR3X8zMu-0g",
     "save": true,
     "scrapper": true,
     "timelapse": 8000,
-    "self_proxies": false
+    "self_proxies": true
 
 }
